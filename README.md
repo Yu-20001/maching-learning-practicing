@@ -1,2 +1,3 @@
 # maching-learning-practicing
-learning through online resources
+I learn through online resources.
+Here to store projects and my notes.
