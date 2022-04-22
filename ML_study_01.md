@@ -1,4 +1,4 @@
-# ML_study_1
+# LinearRegression_01
 linear regression 線性回歸
 
 code from:
